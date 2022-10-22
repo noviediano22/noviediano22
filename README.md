@@ -1,5 +1,8 @@
+[![MasterHead](3eb46242aad791aefa762d89a01f631aa5c09f1c73c3bae55df33bcaaa769c33caeea5adbc48)](https://github.com/noviediano22)
+
 <h1 align="center">Hi 👋, I'm Novie Diano</h1>
 <h3 align="center">A passionate Software Engineer/Full Stack Developer</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1920348/screenshots/4332641/shot09.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noviediano22&label=Profile%20views&color=0e75b6&style=flat" alt="noviediano22" /> </p>
 
